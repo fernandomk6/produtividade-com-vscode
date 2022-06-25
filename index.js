@@ -12,3 +12,5 @@ console.log(helloWorld());
 console.log(greeting());
 
 console.log('teste');
+console.log('teste');
+
