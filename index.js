@@ -11,6 +11,3 @@ function greeting() {
 
 console.log(helloWorld());
 console.log(greeting());
-
-console.log([1,'2',3]);
-console.log({name: 'fernando'});
